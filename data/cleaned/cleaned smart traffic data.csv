@@ -1,0 +1,794 @@
+product_id,product_name,category,warehouse,location,quantity,price,supplier,status,last_restocked
+1102,gadget y,electronics,warehouse 2,aisle 1,300,9.99,supplier c,in stock,
+1435,gadget y,electronics,warehouse 2,aisle 4,two hundred,19.99,supplier c,out of stock,
+1860,widget a,clothing,warehouse 2,aisle 3,100,19.99,supplier b,in stock,20/12/2022
+1270,gadget z,toys,warehouse 2,aisle 4,50,49.99,supplier b,in stock,20/12/2022
+1106,widget a,furniture,warehouse 3,aisle 3,two hundred,9.99,supplier d,out of stock,25/04/2023
+1700,widget a,clothing,warehouse 2,aisle 2,two hundred,49.99,supplier b,in stock,20/12/2022
+1020,widget c,clothing,warehouse 1,aisle 5,two hundred,9.99,supplier d,out of stock,20/12/2022
+1614,gadget y,electronics,warehouse 3,aisle 3,300,9.99,supplier b,out of stock,05/03/2023
+1121,widget b,toys,warehouse 1,aisle 2,50,19.99,supplier c,out of stock,20/12/2022
+1466,widget a,clothing,warehouse 3,aisle 1,,49.99,supplier b,in stock,15/01/2023
+1214,gadget z,furniture,warehouse 2,aisle 1,50,9.99,supplier a,low stock,15/01/2023
+1330,widget c,toys,warehouse 3,aisle 4,150,9.99,supplier b,in stock,25/04/2023
+1458,widget c,furniture,warehouse 2,aisle 3,300,49.99,supplier a,low stock,05/03/2023
+1372,gadget y,furniture,warehouse 2,aisle 1,two hundred,49.99,supplier a,low stock,05/03/2023
+1099,widget a,electronics,warehouse 2,aisle 5,300,49.99,supplier b,out of stock,05/03/2023
+1663,widget a,furniture,warehouse 2,aisle 5,50,49.99,supplier c,low stock,05/03/2023
+1130,widget c,toys,warehouse 1,aisle 5,300,9.99,supplier b,out of stock,20/12/2022
+1661,widget a,clothing,warehouse 2,aisle 1,50,49.99,supplier c,low stock,05/03/2023
+1769,gadget z,toys,warehouse 1,aisle 1,two hundred,29.99,supplier b,in stock,25/04/2023
+1343,gadget x,furniture,warehouse 2,aisle 4,100,49.99,supplier b,in stock,25/04/2023
+1491,widget a,electronics,warehouse 1,aisle 5,100,19.99,supplier d,out of stock,15/01/2023
+1413,gadget y,electronics,warehouse 3,aisle 3,150,9.99,supplier c,out of stock,20/12/2022
+1805,gadget y,furniture,warehouse 2,aisle 2,300,9.99,supplier c,low stock,15/01/2023
+1385,gadget z,clothing,warehouse 1,aisle 4,50,19.99,supplier b,in stock,
+1191,widget c,clothing,warehouse 2,aisle 3,100,19.99,supplier a,low stock,20/12/2022
+1955,gadget y,clothing,warehouse 2,aisle 5,100,49.99,supplier b,out of stock,05/03/2023
+1276,gadget y,clothing,warehouse 2,aisle 1,,19.99,supplier c,out of stock,25/04/2023
+1160,gadget y,furniture,warehouse 1,aisle 5,,29.99,supplier b,low stock,
+1313,widget b,toys,warehouse 3,aisle 4,300,19.99,supplier a,in stock,15/01/2023
+1021,widget b,clothing,warehouse 1,aisle 4,150,19.99,supplier b,low stock,25/04/2023
+1252,widget c,electronics,warehouse 2,aisle 2,100,29.99,supplier d,in stock,15/01/2023
+1747,widget a,clothing,warehouse 1,aisle 3,two hundred,9.99,supplier c,in stock,20/12/2022
+1856,gadget y,furniture,warehouse 1,aisle 3,50,9.99,supplier b,in stock,20/12/2022
+1560,gadget z,electronics,warehouse 1,aisle 4,150,49.99,supplier c,low stock,
+1474,widget a,furniture,warehouse 2,aisle 4,two hundred,29.99,supplier d,out of stock,05/03/2023
+1681,widget c,furniture,warehouse 1,aisle 2,50,29.99,supplier d,in stock,25/04/2023
+1699,gadget y,clothing,warehouse 1,aisle 1,,9.99,supplier b,out of stock,
+1189,widget a,furniture,warehouse 2,aisle 1,,29.99,supplier a,low stock,25/04/2023
+1957,widget a,furniture,warehouse 2,aisle 2,two hundred,29.99,supplier a,low stock,15/01/2023
+1957,gadget x,toys,warehouse 3,aisle 5,50,19.99,supplier a,low stock,05/03/2023
+1562,widget b,electronics,warehouse 2,aisle 4,150,29.99,supplier c,low stock,20/12/2022
+1875,widget b,clothing,warehouse 1,aisle 5,,49.99,supplier d,in stock,20/12/2022
+1566,widget b,clothing,warehouse 3,aisle 1,two hundred,49.99,supplier d,out of stock,25/04/2023
+1243,gadget z,toys,warehouse 2,aisle 1,two hundred,9.99,supplier b,in stock,25/04/2023
+1504,widget c,clothing,warehouse 3,aisle 3,50,19.99,supplier c,out of stock,20/12/2022
+1130,widget c,electronics,warehouse 3,aisle 5,two hundred,9.99,supplier c,in stock,05/03/2023
+1818,gadget x,toys,warehouse 3,aisle 4,150,29.99,supplier b,low stock,
+1646,widget a,electronics,warehouse 1,aisle 2,,49.99,supplier a,in stock,15/01/2023
+1020,gadget z,toys,warehouse 3,aisle 4,300,19.99,supplier d,in stock,20/12/2022
+1840,gadget x,electronics,warehouse 2,aisle 3,150,49.99,supplier c,in stock,25/04/2023
+1166,gadget y,furniture,warehouse 2,aisle 3,50,29.99,supplier c,in stock,
+1387,gadget z,toys,warehouse 2,aisle 3,,29.99,supplier c,low stock,
+1600,widget c,clothing,warehouse 2,aisle 1,,29.99,supplier d,low stock,20/12/2022
+1315,widget a,toys,warehouse 3,aisle 1,100,49.99,supplier b,in stock,15/01/2023
+1013,widget a,toys,warehouse 2,aisle 5,50,19.99,supplier c,low stock,25/04/2023
+1241,gadget y,furniture,warehouse 1,aisle 2,300,29.99,supplier d,low stock,
+1776,gadget y,toys,warehouse 3,aisle 4,300,49.99,supplier c,out of stock,05/03/2023
+1345,gadget z,furniture,warehouse 3,aisle 4,two hundred,19.99,supplier a,in stock,20/12/2022
+1339,widget c,furniture,warehouse 3,aisle 1,300,9.99,supplier b,in stock,05/03/2023
+1091,gadget z,electronics,warehouse 1,aisle 5,300,49.99,supplier a,out of stock,15/01/2023
+1366,gadget x,clothing,warehouse 3,aisle 2,150,19.99,supplier a,in stock,05/03/2023
+1955,widget b,electronics,warehouse 1,aisle 5,150,29.99,supplier b,out of stock,20/12/2022
+1427,widget b,electronics,warehouse 2,aisle 3,100,19.99,supplier d,in stock,20/12/2022
+1508,widget b,electronics,warehouse 2,aisle 3,two hundred,49.99,supplier a,in stock,20/12/2022
+1775,widget b,toys,warehouse 3,aisle 5,,9.99,supplier a,in stock,20/12/2022
+1034,widget c,toys,warehouse 1,aisle 2,two hundred,19.99,supplier c,out of stock,05/03/2023
+1205,widget c,electronics,warehouse 3,aisle 3,50,19.99,supplier a,low stock,05/03/2023
+1080,widget b,electronics,warehouse 1,aisle 3,150,19.99,supplier c,in stock,05/03/2023
+1931,gadget x,toys,warehouse 1,aisle 3,,49.99,supplier d,out of stock,25/04/2023
+1561,widget a,clothing,warehouse 3,aisle 2,50,49.99,supplier a,out of stock,
+1871,gadget z,clothing,warehouse 1,aisle 3,50,49.99,supplier d,out of stock,20/12/2022
+1387,widget a,furniture,warehouse 2,aisle 2,,29.99,supplier d,in stock,
+1001,gadget x,toys,warehouse 3,aisle 3,150,19.99,supplier c,low stock,25/04/2023
+1565,widget b,clothing,warehouse 3,aisle 5,,49.99,supplier c,in stock,20/12/2022
+1105,widget c,furniture,warehouse 1,aisle 2,,49.99,supplier b,out of stock,15/01/2023
+1771,widget a,toys,warehouse 3,aisle 5,,19.99,supplier c,out of stock,15/01/2023
+1821,gadget y,toys,warehouse 2,aisle 2,50,49.99,supplier d,low stock,
+1476,gadget y,toys,warehouse 1,aisle 5,two hundred,29.99,supplier b,out of stock,05/03/2023
+1702,gadget x,electronics,warehouse 3,aisle 5,100,29.99,supplier c,out of stock,15/01/2023
+1401,widget b,furniture,warehouse 3,aisle 2,150,49.99,supplier d,in stock,
+1729,widget a,clothing,warehouse 3,aisle 4,150,19.99,supplier a,in stock,25/04/2023
+1555,widget b,clothing,warehouse 2,aisle 5,two hundred,19.99,supplier a,low stock,
+1161,widget a,clothing,warehouse 2,aisle 3,,19.99,supplier c,in stock,
+1201,gadget x,electronics,warehouse 3,aisle 4,100,9.99,supplier c,in stock,
+1957,gadget x,electronics,warehouse 1,aisle 2,150,49.99,supplier a,low stock,20/12/2022
+1995,gadget y,toys,warehouse 1,aisle 4,300,19.99,supplier d,out of stock,
+1269,widget b,clothing,warehouse 2,aisle 1,150,29.99,supplier d,low stock,
+1270,widget b,clothing,warehouse 3,aisle 5,two hundred,19.99,supplier b,out of stock,25/04/2023
+1726,widget c,electronics,warehouse 3,aisle 1,two hundred,9.99,supplier b,in stock,15/01/2023
+1251,widget c,electronics,warehouse 1,aisle 5,100,29.99,supplier b,low stock,
+1701,widget c,toys,warehouse 2,aisle 4,100,29.99,supplier c,out of stock,25/04/2023
+1295,widget c,toys,warehouse 2,aisle 5,150,9.99,supplier c,low stock,
+1724,widget a,electronics,warehouse 3,aisle 5,150,9.99,supplier b,out of stock,15/01/2023
+1748,gadget z,clothing,warehouse 2,aisle 1,300,49.99,supplier c,low stock,05/03/2023
+1878,gadget x,toys,warehouse 2,aisle 2,150,9.99,supplier d,in stock,20/12/2022
+1052,widget a,furniture,warehouse 3,aisle 5,50,29.99,supplier c,low stock,05/03/2023
+1921,widget c,toys,warehouse 1,aisle 3,100,49.99,supplier c,in stock,25/04/2023
+1763,gadget y,electronics,warehouse 1,aisle 3,150,19.99,supplier b,in stock,20/12/2022
+1379,gadget y,clothing,warehouse 2,aisle 2,100,9.99,supplier a,in stock,25/04/2023
+1492,widget b,clothing,warehouse 1,aisle 5,,29.99,supplier a,out of stock,05/03/2023
+1040,widget c,furniture,warehouse 1,aisle 3,50,29.99,supplier b,low stock,15/01/2023
+1156,widget c,toys,warehouse 1,aisle 2,300,9.99,supplier d,low stock,
+1014,gadget y,clothing,warehouse 2,aisle 1,100,19.99,supplier d,out of stock,15/01/2023
+1812,gadget y,clothing,warehouse 1,aisle 5,300,9.99,supplier d,low stock,
+1856,gadget x,clothing,warehouse 1,aisle 5,150,9.99,supplier d,low stock,20/12/2022
+1838,widget b,clothing,warehouse 3,aisle 4,150,9.99,supplier d,out of stock,25/04/2023
+1520,gadget y,furniture,warehouse 1,aisle 3,150,19.99,supplier b,in stock,20/12/2022
+1128,gadget y,electronics,warehouse 3,aisle 3,,49.99,supplier a,in stock,15/01/2023
+1647,gadget z,electronics,warehouse 1,aisle 1,150,49.99,supplier a,in stock,20/12/2022
+1471,widget a,electronics,warehouse 3,aisle 4,100,29.99,supplier a,low stock,15/01/2023
+1062,gadget y,clothing,warehouse 1,aisle 5,150,9.99,supplier b,in stock,15/01/2023
+1138,widget a,toys,warehouse 2,aisle 3,two hundred,29.99,supplier b,out of stock,20/12/2022
+1498,gadget x,toys,warehouse 2,aisle 5,150,19.99,supplier c,low stock,15/01/2023
+1592,widget b,furniture,warehouse 2,aisle 2,300,49.99,supplier d,out of stock,20/12/2022
+1391,gadget z,furniture,warehouse 2,aisle 3,,9.99,supplier b,in stock,20/12/2022
+1674,widget b,clothing,warehouse 3,aisle 4,two hundred,19.99,supplier a,out of stock,20/12/2022
+1418,widget a,toys,warehouse 1,aisle 3,300,19.99,supplier a,out of stock,
+1288,gadget z,toys,warehouse 1,aisle 5,300,9.99,supplier b,in stock,15/01/2023
+1378,widget b,electronics,warehouse 1,aisle 1,300,19.99,supplier b,low stock,05/03/2023
+1772,gadget y,clothing,warehouse 2,aisle 3,100,9.99,supplier b,out of stock,20/12/2022
+1489,widget c,clothing,warehouse 2,aisle 4,300,9.99,supplier c,in stock,15/01/2023
+1040,widget b,clothing,warehouse 2,aisle 1,300,29.99,supplier c,low stock,20/12/2022
+1027,widget a,clothing,warehouse 1,aisle 2,50,19.99,supplier c,low stock,20/12/2022
+1134,widget a,furniture,warehouse 1,aisle 3,two hundred,19.99,supplier d,out of stock,05/03/2023
+1929,gadget y,toys,warehouse 1,aisle 5,two hundred,49.99,supplier b,out of stock,15/01/2023
+1032,widget a,electronics,warehouse 1,aisle 1,,49.99,supplier d,in stock,25/04/2023
+1047,widget b,furniture,warehouse 2,aisle 5,50,49.99,supplier c,out of stock,25/04/2023
+1502,gadget x,furniture,warehouse 1,aisle 4,,9.99,supplier b,out of stock,15/01/2023
+1406,widget a,toys,warehouse 1,aisle 3,two hundred,19.99,supplier b,low stock,20/12/2022
+1573,widget a,electronics,warehouse 2,aisle 3,100,29.99,supplier a,out of stock,25/04/2023
+1727,widget c,furniture,warehouse 2,aisle 5,two hundred,9.99,supplier a,in stock,
+1804,gadget y,clothing,warehouse 2,aisle 2,,19.99,supplier b,low stock,15/01/2023
+1098,gadget x,clothing,warehouse 1,aisle 3,50,19.99,supplier a,in stock,05/03/2023
+1725,widget b,furniture,warehouse 2,aisle 5,50,9.99,supplier a,out of stock,25/04/2023
+1546,gadget z,electronics,warehouse 2,aisle 4,300,19.99,supplier a,low stock,
+1738,gadget y,toys,warehouse 3,aisle 1,50,49.99,supplier a,low stock,20/12/2022
+1942,gadget z,furniture,warehouse 3,aisle 1,100,19.99,supplier c,low stock,
+1461,widget c,electronics,warehouse 1,aisle 2,100,9.99,supplier a,low stock,20/12/2022
+1642,widget c,electronics,warehouse 3,aisle 4,300,29.99,supplier d,low stock,
+1004,gadget z,clothing,warehouse 1,aisle 3,50,19.99,supplier b,out of stock,
+1217,widget c,clothing,warehouse 3,aisle 3,50,29.99,supplier d,low stock,
+1502,gadget x,toys,warehouse 1,aisle 2,two hundred,29.99,supplier a,in stock,20/12/2022
+1766,gadget y,clothing,warehouse 1,aisle 4,two hundred,49.99,supplier c,out of stock,15/01/2023
+1397,widget b,electronics,warehouse 1,aisle 4,100,29.99,supplier a,in stock,05/03/2023
+1870,widget b,electronics,warehouse 3,aisle 4,150,19.99,supplier d,low stock,05/03/2023
+1794,gadget z,clothing,warehouse 3,aisle 2,two hundred,19.99,supplier b,in stock,25/04/2023
+1857,gadget y,clothing,warehouse 3,aisle 3,300,29.99,supplier a,out of stock,05/03/2023
+1553,gadget x,furniture,warehouse 1,aisle 3,100,29.99,supplier c,low stock,25/04/2023
+1891,widget b,furniture,warehouse 1,aisle 1,two hundred,49.99,supplier b,out of stock,15/01/2023
+1690,widget a,toys,warehouse 2,aisle 2,150,9.99,supplier b,out of stock,05/03/2023
+1574,gadget z,furniture,warehouse 3,aisle 1,100,49.99,supplier a,out of stock,25/04/2023
+1863,widget b,clothing,warehouse 2,aisle 3,150,9.99,supplier c,in stock,20/12/2022
+1742,gadget z,toys,warehouse 3,aisle 5,150,29.99,supplier a,out of stock,05/03/2023
+1240,gadget x,electronics,warehouse 3,aisle 3,150,49.99,supplier a,low stock,25/04/2023
+1563,widget a,electronics,warehouse 3,aisle 2,two hundred,49.99,supplier a,in stock,15/01/2023
+1095,widget a,electronics,warehouse 3,aisle 4,100,19.99,supplier d,low stock,20/12/2022
+1899,gadget y,clothing,warehouse 3,aisle 3,150,29.99,supplier d,in stock,25/04/2023
+1733,gadget x,furniture,warehouse 3,aisle 4,150,29.99,supplier d,low stock,25/04/2023
+1484,widget a,electronics,warehouse 3,aisle 5,two hundred,49.99,supplier c,low stock,
+1406,gadget x,clothing,warehouse 2,aisle 3,100,29.99,supplier a,out of stock,05/03/2023
+1230,widget b,toys,warehouse 1,aisle 1,50,49.99,supplier a,low stock,
+1748,widget c,furniture,warehouse 1,aisle 4,two hundred,19.99,supplier d,out of stock,20/12/2022
+1654,widget a,toys,warehouse 2,aisle 5,100,49.99,supplier a,in stock,25/04/2023
+1170,gadget y,clothing,warehouse 2,aisle 1,150,29.99,supplier a,low stock,
+1540,widget b,electronics,warehouse 2,aisle 1,100,29.99,supplier b,low stock,05/03/2023
+1035,gadget x,electronics,warehouse 2,aisle 1,100,49.99,supplier a,in stock,20/12/2022
+1524,gadget z,clothing,warehouse 3,aisle 1,300,49.99,supplier b,in stock,15/01/2023
+1159,widget b,electronics,warehouse 1,aisle 3,100,49.99,supplier a,low stock,
+1698,gadget x,clothing,warehouse 1,aisle 3,100,29.99,supplier d,out of stock,15/01/2023
+1242,widget c,toys,warehouse 1,aisle 5,50,29.99,supplier b,in stock,
+1795,widget a,furniture,warehouse 3,aisle 5,50,49.99,supplier b,low stock,20/12/2022
+1577,gadget y,furniture,warehouse 2,aisle 2,150,19.99,supplier b,out of stock,
+1681,gadget z,clothing,warehouse 3,aisle 5,150,49.99,supplier b,in stock,20/12/2022
+1556,gadget x,clothing,warehouse 1,aisle 3,50,49.99,supplier c,out of stock,25/04/2023
+1952,widget b,furniture,warehouse 2,aisle 2,,29.99,supplier b,out of stock,20/12/2022
+1645,widget c,clothing,warehouse 1,aisle 2,100,49.99,supplier c,low stock,15/01/2023
+1795,widget c,clothing,warehouse 1,aisle 5,300,29.99,supplier b,in stock,15/01/2023
+1027,gadget y,furniture,warehouse 1,aisle 4,,9.99,supplier a,low stock,25/04/2023
+1619,gadget z,clothing,warehouse 2,aisle 2,100,29.99,supplier b,in stock,
+1555,gadget y,electronics,warehouse 3,aisle 1,100,19.99,supplier c,in stock,20/12/2022
+1339,widget a,furniture,warehouse 2,aisle 3,150,19.99,supplier a,low stock,20/12/2022
+1797,widget a,electronics,warehouse 3,aisle 1,100,49.99,supplier c,out of stock,15/01/2023
+1957,gadget y,electronics,warehouse 2,aisle 3,300,29.99,supplier a,out of stock,25/04/2023
+1330,gadget z,electronics,warehouse 2,aisle 3,100,49.99,supplier a,in stock,15/01/2023
+1505,gadget z,furniture,warehouse 3,aisle 2,,19.99,supplier d,out of stock,25/04/2023
+1347,gadget z,electronics,warehouse 2,aisle 1,50,49.99,supplier d,out of stock,
+1230,gadget z,clothing,warehouse 1,aisle 1,100,49.99,supplier b,in stock,
+1189,widget c,furniture,warehouse 1,aisle 4,300,29.99,supplier c,low stock,05/03/2023
+1224,gadget z,furniture,warehouse 3,aisle 1,150,29.99,supplier c,in stock,05/03/2023
+1384,gadget z,toys,warehouse 2,aisle 5,50,29.99,supplier c,out of stock,05/03/2023
+1376,gadget z,furniture,warehouse 3,aisle 1,50,29.99,supplier d,out of stock,25/04/2023
+1282,widget a,furniture,warehouse 2,aisle 5,two hundred,9.99,supplier a,out of stock,15/01/2023
+1627,gadget y,furniture,warehouse 2,aisle 4,50,29.99,supplier a,low stock,05/03/2023
+1972,gadget x,furniture,warehouse 3,aisle 1,50,9.99,supplier c,in stock,
+1744,gadget z,furniture,warehouse 1,aisle 1,150,29.99,supplier d,in stock,05/03/2023
+1258,widget b,toys,warehouse 1,aisle 4,300,9.99,supplier d,in stock,05/03/2023
+1358,gadget x,furniture,warehouse 3,aisle 3,300,29.99,supplier b,low stock,20/12/2022
+1709,gadget x,furniture,warehouse 2,aisle 2,100,19.99,supplier b,out of stock,25/04/2023
+1455,widget c,toys,warehouse 2,aisle 1,two hundred,19.99,supplier d,in stock,15/01/2023
+1410,gadget x,clothing,warehouse 1,aisle 2,50,49.99,supplier b,out of stock,25/04/2023
+1648,gadget z,electronics,warehouse 2,aisle 4,two hundred,29.99,supplier c,in stock,
+1676,widget a,toys,warehouse 2,aisle 3,300,49.99,supplier b,in stock,
+1224,gadget z,electronics,warehouse 1,aisle 3,,19.99,supplier d,in stock,
+1818,gadget z,toys,warehouse 3,aisle 4,100,29.99,supplier d,in stock,15/01/2023
+1233,widget c,toys,warehouse 2,aisle 5,,49.99,supplier a,out of stock,20/12/2022
+1683,gadget z,furniture,warehouse 1,aisle 5,,29.99,supplier a,in stock,15/01/2023
+1663,widget a,electronics,warehouse 1,aisle 2,,19.99,supplier d,out of stock,25/04/2023
+1974,widget b,furniture,warehouse 3,aisle 5,100,49.99,supplier b,low stock,
+1826,widget c,electronics,warehouse 2,aisle 5,100,19.99,supplier b,in stock,05/03/2023
+1373,widget b,toys,warehouse 2,aisle 3,150,9.99,supplier a,out of stock,05/03/2023
+1671,widget c,toys,warehouse 3,aisle 3,two hundred,19.99,supplier a,low stock,
+1607,gadget y,clothing,warehouse 3,aisle 2,two hundred,29.99,supplier a,low stock,15/01/2023
+1232,gadget y,furniture,warehouse 1,aisle 2,150,19.99,supplier c,out of stock,15/01/2023
+1112,widget b,clothing,warehouse 2,aisle 4,,9.99,supplier b,in stock,
+1829,gadget z,clothing,warehouse 1,aisle 4,150,49.99,supplier a,out of stock,20/12/2022
+1496,gadget x,furniture,warehouse 1,aisle 2,50,49.99,supplier c,in stock,25/04/2023
+1563,gadget x,furniture,warehouse 1,aisle 2,150,49.99,supplier c,in stock,20/12/2022
+1267,widget a,clothing,warehouse 2,aisle 5,50,19.99,supplier b,low stock,25/04/2023
+1806,widget a,toys,warehouse 2,aisle 2,50,29.99,supplier b,out of stock,25/04/2023
+1385,gadget x,toys,warehouse 3,aisle 3,300,19.99,supplier b,out of stock,25/04/2023
+1386,widget a,toys,warehouse 3,aisle 3,300,19.99,supplier b,low stock,25/04/2023
+1112,widget b,toys,warehouse 3,aisle 5,50,19.99,supplier b,out of stock,05/03/2023
+1612,gadget z,toys,warehouse 2,aisle 5,300,29.99,supplier d,in stock,25/04/2023
+1624,gadget z,clothing,warehouse 2,aisle 1,,9.99,supplier c,in stock,05/03/2023
+1951,gadget y,clothing,warehouse 3,aisle 1,50,49.99,supplier c,low stock,20/12/2022
+1698,widget c,furniture,warehouse 2,aisle 5,,9.99,supplier b,low stock,20/12/2022
+1001,gadget y,furniture,warehouse 1,aisle 5,two hundred,49.99,supplier c,low stock,20/12/2022
+1641,widget c,furniture,warehouse 2,aisle 3,50,29.99,supplier d,out of stock,15/01/2023
+1219,widget c,toys,warehouse 2,aisle 5,50,19.99,supplier b,low stock,15/01/2023
+1565,widget a,toys,warehouse 1,aisle 3,300,19.99,supplier b,out of stock,
+1854,gadget z,toys,warehouse 1,aisle 1,50,29.99,supplier b,out of stock,15/01/2023
+1996,widget b,electronics,warehouse 3,aisle 1,two hundred,9.99,supplier a,in stock,15/01/2023
+1735,widget b,clothing,warehouse 3,aisle 1,300,9.99,supplier d,in stock,
+1384,widget b,furniture,warehouse 3,aisle 2,100,29.99,supplier a,out of stock,25/04/2023
+1402,gadget x,toys,warehouse 3,aisle 4,,9.99,supplier d,low stock,
+1637,widget b,furniture,warehouse 3,aisle 4,,29.99,supplier b,out of stock,05/03/2023
+1129,gadget y,furniture,warehouse 3,aisle 4,two hundred,49.99,supplier c,in stock,15/01/2023
+1052,widget b,clothing,warehouse 1,aisle 2,150,19.99,supplier a,in stock,15/01/2023
+1683,gadget x,toys,warehouse 2,aisle 2,100,19.99,supplier a,low stock,
+1729,widget a,clothing,warehouse 3,aisle 4,,19.99,supplier b,in stock,
+1671,gadget y,electronics,warehouse 1,aisle 4,100,29.99,supplier b,in stock,05/03/2023
+1709,widget a,electronics,warehouse 1,aisle 5,two hundred,29.99,supplier a,in stock,25/04/2023
+1246,widget a,toys,warehouse 3,aisle 5,150,19.99,supplier c,out of stock,25/04/2023
+1438,gadget z,toys,warehouse 2,aisle 2,300,19.99,supplier b,low stock,
+1122,widget a,clothing,warehouse 1,aisle 2,100,49.99,supplier c,in stock,05/03/2023
+1766,gadget z,clothing,warehouse 3,aisle 3,150,29.99,supplier d,in stock,15/01/2023
+1279,gadget x,toys,warehouse 1,aisle 4,,19.99,supplier d,in stock,05/03/2023
+1883,gadget z,toys,warehouse 3,aisle 1,50,9.99,supplier b,in stock,20/12/2022
+1609,gadget y,clothing,warehouse 2,aisle 1,,19.99,supplier d,out of stock,05/03/2023
+1197,widget c,toys,warehouse 2,aisle 2,100,9.99,supplier a,in stock,05/03/2023
+1981,widget a,clothing,warehouse 1,aisle 5,,19.99,supplier b,low stock,25/04/2023
+1906,widget b,furniture,warehouse 1,aisle 2,300,29.99,supplier a,low stock,25/04/2023
+1510,gadget x,furniture,warehouse 3,aisle 2,150,29.99,supplier a,out of stock,20/12/2022
+1751,widget c,furniture,warehouse 1,aisle 1,two hundred,29.99,supplier d,low stock,15/01/2023
+1143,widget c,toys,warehouse 3,aisle 2,100,9.99,supplier d,in stock,05/03/2023
+1608,widget a,furniture,warehouse 2,aisle 1,50,49.99,supplier c,in stock,15/01/2023
+1200,gadget z,electronics,warehouse 2,aisle 5,150,19.99,supplier c,in stock,20/12/2022
+1123,gadget x,clothing,warehouse 3,aisle 4,two hundred,29.99,supplier c,low stock,20/12/2022
+1186,gadget y,clothing,warehouse 1,aisle 1,,19.99,supplier b,in stock,25/04/2023
+1325,widget c,electronics,warehouse 2,aisle 5,two hundred,9.99,supplier c,in stock,05/03/2023
+1463,widget a,toys,warehouse 1,aisle 4,150,49.99,supplier a,in stock,
+1348,gadget y,toys,warehouse 2,aisle 3,150,9.99,supplier c,out of stock,20/12/2022
+1770,gadget z,clothing,warehouse 3,aisle 1,300,19.99,supplier d,low stock,05/03/2023
+1659,gadget x,furniture,warehouse 3,aisle 1,300,49.99,supplier c,low stock,15/01/2023
+1763,gadget z,toys,warehouse 3,aisle 3,two hundred,49.99,supplier b,low stock,25/04/2023
+1954,widget c,toys,warehouse 2,aisle 3,,9.99,supplier b,out of stock,15/01/2023
+1931,gadget y,electronics,warehouse 1,aisle 1,two hundred,29.99,supplier a,low stock,20/12/2022
+1402,gadget y,electronics,warehouse 1,aisle 3,150,19.99,supplier b,out of stock,20/12/2022
+1510,widget c,toys,warehouse 2,aisle 4,300,9.99,supplier b,in stock,05/03/2023
+1146,gadget z,electronics,warehouse 2,aisle 4,50,19.99,supplier a,in stock,20/12/2022
+1147,widget b,toys,warehouse 2,aisle 2,100,19.99,supplier c,low stock,25/04/2023
+1863,gadget z,clothing,warehouse 2,aisle 3,150,9.99,supplier a,low stock,05/03/2023
+1710,gadget x,electronics,warehouse 1,aisle 5,50,19.99,supplier b,out of stock,
+1819,widget a,furniture,warehouse 2,aisle 3,two hundred,29.99,supplier b,low stock,20/12/2022
+1488,gadget y,electronics,warehouse 2,aisle 1,300,9.99,supplier a,out of stock,20/12/2022
+1928,widget b,toys,warehouse 1,aisle 4,300,29.99,supplier c,low stock,25/04/2023
+1935,widget a,furniture,warehouse 2,aisle 3,,19.99,supplier b,in stock,25/04/2023
+1639,widget b,electronics,warehouse 1,aisle 5,two hundred,9.99,supplier d,in stock,15/01/2023
+1550,gadget z,clothing,warehouse 1,aisle 1,,19.99,supplier b,low stock,15/01/2023
+1337,widget c,clothing,warehouse 3,aisle 2,50,9.99,supplier c,out of stock,15/01/2023
+1871,gadget y,electronics,warehouse 3,aisle 2,100,19.99,supplier b,in stock,25/04/2023
+1640,gadget z,clothing,warehouse 3,aisle 5,two hundred,29.99,supplier a,out of stock,15/01/2023
+1778,widget a,clothing,warehouse 3,aisle 1,two hundred,29.99,supplier b,low stock,15/01/2023
+1987,widget a,clothing,warehouse 2,aisle 4,two hundred,19.99,supplier b,low stock,
+1952,widget a,furniture,warehouse 3,aisle 3,,9.99,supplier c,in stock,15/01/2023
+1945,widget a,clothing,warehouse 2,aisle 2,two hundred,29.99,supplier c,in stock,25/04/2023
+1150,widget b,clothing,warehouse 3,aisle 5,two hundred,29.99,supplier b,out of stock,05/03/2023
+1989,gadget y,electronics,warehouse 2,aisle 3,100,19.99,supplier b,in stock,25/04/2023
+1297,widget c,toys,warehouse 2,aisle 5,300,9.99,supplier c,out of stock,25/04/2023
+1610,widget c,clothing,warehouse 3,aisle 5,300,19.99,supplier d,in stock,20/12/2022
+1262,gadget z,electronics,warehouse 2,aisle 1,100,49.99,supplier c,in stock,15/01/2023
+1763,gadget z,clothing,warehouse 1,aisle 4,50,29.99,supplier c,low stock,20/12/2022
+1143,widget c,furniture,warehouse 2,aisle 3,300,49.99,supplier a,out of stock,15/01/2023
+1345,widget c,electronics,warehouse 1,aisle 1,50,29.99,supplier d,in stock,15/01/2023
+1623,widget b,furniture,warehouse 2,aisle 4,300,29.99,supplier b,out of stock,25/04/2023
+1571,gadget x,clothing,warehouse 3,aisle 1,150,49.99,supplier c,out of stock,15/01/2023
+1880,gadget y,clothing,warehouse 1,aisle 1,100,49.99,supplier b,in stock,
+1001,widget a,furniture,warehouse 2,aisle 5,300,19.99,supplier a,low stock,
+1896,gadget x,toys,warehouse 2,aisle 4,150,49.99,supplier a,out of stock,
+1303,gadget z,furniture,warehouse 2,aisle 3,,19.99,supplier d,in stock,25/04/2023
+1253,widget c,clothing,warehouse 1,aisle 3,150,19.99,supplier a,out of stock,20/12/2022
+1651,gadget x,furniture,warehouse 1,aisle 4,two hundred,19.99,supplier a,low stock,05/03/2023
+1452,gadget y,toys,warehouse 1,aisle 5,300,29.99,supplier b,low stock,15/01/2023
+1036,gadget z,furniture,warehouse 3,aisle 2,150,29.99,supplier a,low stock,05/03/2023
+1159,widget a,toys,warehouse 3,aisle 1,50,49.99,supplier a,in stock,20/12/2022
+1008,widget a,toys,warehouse 1,aisle 5,,29.99,supplier c,in stock,20/12/2022
+1232,gadget y,furniture,warehouse 2,aisle 4,300,49.99,supplier a,low stock,25/04/2023
+1098,gadget y,furniture,warehouse 3,aisle 1,two hundred,29.99,supplier c,in stock,
+1658,widget c,electronics,warehouse 1,aisle 3,150,9.99,supplier a,low stock,
+1815,widget a,clothing,warehouse 2,aisle 2,,9.99,supplier a,in stock,20/12/2022
+1207,gadget z,toys,warehouse 3,aisle 3,300,49.99,supplier d,low stock,25/04/2023
+1130,gadget x,electronics,warehouse 2,aisle 4,,29.99,supplier d,out of stock,25/04/2023
+1403,gadget z,furniture,warehouse 2,aisle 1,two hundred,29.99,supplier c,low stock,15/01/2023
+1151,widget b,clothing,warehouse 2,aisle 4,150,19.99,supplier a,low stock,
+1119,gadget y,toys,warehouse 3,aisle 5,,49.99,supplier d,in stock,05/03/2023
+1627,widget a,furniture,warehouse 1,aisle 5,100,49.99,supplier d,in stock,25/04/2023
+1586,gadget z,clothing,warehouse 3,aisle 4,150,29.99,supplier a,in stock,20/12/2022
+1624,gadget z,clothing,warehouse 2,aisle 2,300,49.99,supplier d,out of stock,
+1419,gadget x,furniture,warehouse 2,aisle 1,150,29.99,supplier d,low stock,15/01/2023
+1421,gadget y,toys,warehouse 1,aisle 3,150,9.99,supplier c,low stock,15/01/2023
+1103,gadget x,furniture,warehouse 2,aisle 1,50,49.99,supplier a,out of stock,
+1851,gadget y,clothing,warehouse 2,aisle 4,150,49.99,supplier a,low stock,05/03/2023
+1253,gadget y,furniture,warehouse 2,aisle 5,,29.99,supplier c,out of stock,15/01/2023
+1226,gadget y,furniture,warehouse 1,aisle 5,300,9.99,supplier c,out of stock,20/12/2022
+1111,gadget x,furniture,warehouse 3,aisle 5,two hundred,9.99,supplier c,out of stock,15/01/2023
+1509,gadget x,toys,warehouse 3,aisle 2,300,29.99,supplier d,low stock,05/03/2023
+1472,gadget y,electronics,warehouse 1,aisle 1,100,19.99,supplier a,out of stock,25/04/2023
+1098,widget b,electronics,warehouse 2,aisle 4,300,49.99,supplier c,low stock,25/04/2023
+1152,widget c,furniture,warehouse 3,aisle 2,50,49.99,supplier d,low stock,
+1913,widget c,electronics,warehouse 3,aisle 4,150,29.99,supplier b,in stock,15/01/2023
+1337,widget b,clothing,warehouse 3,aisle 5,two hundred,9.99,supplier d,low stock,25/04/2023
+1705,widget c,electronics,warehouse 1,aisle 4,50,49.99,supplier b,out of stock,20/12/2022
+1162,gadget y,furniture,warehouse 3,aisle 4,300,9.99,supplier d,low stock,20/12/2022
+1719,gadget x,clothing,warehouse 3,aisle 5,150,29.99,supplier c,out of stock,15/01/2023
+1680,gadget z,electronics,warehouse 1,aisle 3,50,49.99,supplier c,low stock,20/12/2022
+1160,gadget z,furniture,warehouse 1,aisle 5,,29.99,supplier b,in stock,25/04/2023
+1800,widget b,furniture,warehouse 1,aisle 1,150,49.99,supplier a,in stock,15/01/2023
+1397,gadget z,electronics,warehouse 2,aisle 2,50,9.99,supplier a,out of stock,05/03/2023
+1276,widget c,toys,warehouse 3,aisle 5,150,49.99,supplier a,low stock,20/12/2022
+1815,gadget x,electronics,warehouse 3,aisle 4,two hundred,9.99,supplier d,low stock,25/04/2023
+1915,widget b,electronics,warehouse 3,aisle 5,50,19.99,supplier b,low stock,
+1503,gadget y,clothing,warehouse 2,aisle 2,150,49.99,supplier b,out of stock,15/01/2023
+1895,gadget z,furniture,warehouse 3,aisle 5,50,49.99,supplier d,in stock,
+1391,widget b,toys,warehouse 2,aisle 5,50,29.99,supplier a,out of stock,05/03/2023
+1194,widget a,electronics,warehouse 3,aisle 1,150,9.99,supplier a,low stock,20/12/2022
+1400,gadget x,toys,warehouse 1,aisle 4,100,9.99,supplier b,in stock,25/04/2023
+1639,widget c,electronics,warehouse 2,aisle 2,50,29.99,supplier c,out of stock,20/12/2022
+1032,gadget x,clothing,warehouse 1,aisle 3,,29.99,supplier a,low stock,15/01/2023
+1954,gadget x,clothing,warehouse 2,aisle 1,150,49.99,supplier c,low stock,05/03/2023
+1882,gadget y,electronics,warehouse 2,aisle 4,50,19.99,supplier b,low stock,20/12/2022
+1374,widget b,toys,warehouse 1,aisle 5,50,29.99,supplier a,out of stock,25/04/2023
+1749,gadget x,toys,warehouse 1,aisle 1,,9.99,supplier c,low stock,
+1669,widget b,furniture,warehouse 2,aisle 4,150,19.99,supplier c,in stock,
+1037,widget a,toys,warehouse 2,aisle 2,50,49.99,supplier b,in stock,
+1229,gadget z,furniture,warehouse 2,aisle 4,300,9.99,supplier a,low stock,15/01/2023
+1364,widget c,furniture,warehouse 1,aisle 2,300,9.99,supplier c,in stock,05/03/2023
+1562,gadget y,clothing,warehouse 2,aisle 1,300,19.99,supplier c,low stock,
+1437,gadget z,furniture,warehouse 1,aisle 4,two hundred,49.99,supplier d,out of stock,05/03/2023
+1775,widget a,electronics,warehouse 3,aisle 4,100,29.99,supplier c,in stock,
+1282,gadget z,furniture,warehouse 1,aisle 1,,49.99,supplier b,out of stock,25/04/2023
+1225,widget a,furniture,warehouse 1,aisle 2,two hundred,9.99,supplier c,out of stock,25/04/2023
+1797,gadget y,electronics,warehouse 2,aisle 3,50,29.99,supplier a,out of stock,
+1283,widget b,clothing,warehouse 2,aisle 2,150,49.99,supplier d,out of stock,05/03/2023
+1959,gadget x,toys,warehouse 3,aisle 1,two hundred,29.99,supplier a,out of stock,05/03/2023
+1480,gadget z,clothing,warehouse 1,aisle 2,50,29.99,supplier a,out of stock,05/03/2023
+1452,widget a,electronics,warehouse 1,aisle 5,100,29.99,supplier a,in stock,05/03/2023
+1828,widget a,electronics,warehouse 1,aisle 5,,49.99,supplier b,low stock,20/12/2022
+1815,gadget z,clothing,warehouse 1,aisle 1,150,29.99,supplier c,out of stock,
+1658,widget c,furniture,warehouse 1,aisle 1,150,9.99,supplier b,in stock,20/12/2022
+1515,gadget y,clothing,warehouse 2,aisle 2,50,29.99,supplier a,low stock,
+1511,widget b,electronics,warehouse 2,aisle 3,150,49.99,supplier c,low stock,
+1171,widget a,electronics,warehouse 3,aisle 4,100,49.99,supplier b,out of stock,
+1219,gadget y,clothing,warehouse 2,aisle 5,,49.99,supplier a,out of stock,25/04/2023
+1157,widget b,electronics,warehouse 3,aisle 4,50,29.99,supplier b,out of stock,20/12/2022
+1476,widget a,electronics,warehouse 1,aisle 3,50,9.99,supplier c,out of stock,20/12/2022
+1045,widget c,electronics,warehouse 1,aisle 1,300,29.99,supplier c,in stock,20/12/2022
+1372,gadget x,clothing,warehouse 2,aisle 3,two hundred,29.99,supplier c,out of stock,
+1517,widget a,clothing,warehouse 1,aisle 1,,49.99,supplier c,low stock,15/01/2023
+1098,widget b,clothing,warehouse 2,aisle 1,150,49.99,supplier a,out of stock,
+1036,widget b,toys,warehouse 3,aisle 4,50,29.99,supplier a,out of stock,05/03/2023
+1279,widget b,furniture,warehouse 1,aisle 3,150,19.99,supplier a,out of stock,
+1348,widget c,clothing,warehouse 1,aisle 5,,19.99,supplier c,out of stock,25/04/2023
+1301,widget c,electronics,warehouse 2,aisle 5,,19.99,supplier c,out of stock,
+1606,widget c,furniture,warehouse 2,aisle 2,100,49.99,supplier d,low stock,25/04/2023
+1098,widget c,furniture,warehouse 3,aisle 4,two hundred,29.99,supplier c,out of stock,20/12/2022
+1699,gadget x,furniture,warehouse 3,aisle 5,,9.99,supplier b,out of stock,
+1992,widget c,electronics,warehouse 3,aisle 4,300,29.99,supplier c,out of stock,
+1252,widget a,clothing,warehouse 2,aisle 4,50,29.99,supplier a,in stock,05/03/2023
+1927,gadget z,electronics,warehouse 2,aisle 1,150,19.99,supplier b,in stock,20/12/2022
+1982,gadget y,electronics,warehouse 1,aisle 5,two hundred,19.99,supplier d,low stock,25/04/2023
+1322,gadget y,furniture,warehouse 1,aisle 3,two hundred,19.99,supplier c,out of stock,05/03/2023
+1792,widget b,toys,warehouse 2,aisle 1,,29.99,supplier b,out of stock,
+1734,gadget x,electronics,warehouse 2,aisle 3,150,9.99,supplier b,low stock,
+1565,widget b,electronics,warehouse 3,aisle 2,100,19.99,supplier b,in stock,25/04/2023
+1569,gadget y,electronics,warehouse 1,aisle 4,50,29.99,supplier d,out of stock,25/04/2023
+1322,widget a,toys,warehouse 1,aisle 2,100,9.99,supplier a,in stock,20/12/2022
+1791,widget a,furniture,warehouse 3,aisle 1,two hundred,29.99,supplier a,low stock,
+1287,gadget x,electronics,warehouse 2,aisle 3,50,49.99,supplier b,out of stock,15/01/2023
+1942,gadget z,furniture,warehouse 3,aisle 5,100,29.99,supplier c,low stock,
+1853,gadget z,clothing,warehouse 3,aisle 3,,9.99,supplier c,low stock,20/12/2022
+1662,gadget x,toys,warehouse 2,aisle 3,100,29.99,supplier c,low stock,
+1961,gadget y,toys,warehouse 3,aisle 5,,19.99,supplier b,in stock,05/03/2023
+1638,widget a,furniture,warehouse 3,aisle 5,300,29.99,supplier c,in stock,05/03/2023
+1385,gadget z,furniture,warehouse 2,aisle 3,100,49.99,supplier d,low stock,20/12/2022
+1985,widget c,electronics,warehouse 2,aisle 3,150,49.99,supplier d,in stock,20/12/2022
+1784,widget c,electronics,warehouse 2,aisle 1,300,49.99,supplier a,in stock,25/04/2023
+1103,widget c,toys,warehouse 1,aisle 1,300,9.99,supplier d,out of stock,15/01/2023
+1928,gadget z,toys,warehouse 1,aisle 4,two hundred,49.99,supplier c,out of stock,05/03/2023
+1392,gadget z,clothing,warehouse 2,aisle 4,,9.99,supplier b,in stock,05/03/2023
+1810,gadget y,toys,warehouse 1,aisle 1,two hundred,49.99,supplier c,low stock,15/01/2023
+1245,widget a,toys,warehouse 2,aisle 1,100,9.99,supplier d,out of stock,
+1175,gadget y,furniture,warehouse 1,aisle 2,50,29.99,supplier a,in stock,
+1038,gadget y,toys,warehouse 3,aisle 2,50,29.99,supplier d,in stock,20/12/2022
+1681,widget c,furniture,warehouse 2,aisle 2,300,9.99,supplier c,in stock,20/12/2022
+1758,widget b,clothing,warehouse 1,aisle 5,,19.99,supplier b,in stock,
+1866,gadget z,clothing,warehouse 3,aisle 4,300,29.99,supplier b,in stock,20/12/2022
+1817,widget c,furniture,warehouse 3,aisle 1,50,9.99,supplier c,in stock,05/03/2023
+1920,widget b,electronics,warehouse 1,aisle 3,,49.99,supplier d,out of stock,05/03/2023
+1407,widget b,clothing,warehouse 1,aisle 1,two hundred,19.99,supplier b,low stock,15/01/2023
+1524,gadget z,clothing,warehouse 1,aisle 2,300,29.99,supplier c,low stock,
+1505,widget a,furniture,warehouse 1,aisle 2,150,9.99,supplier c,out of stock,05/03/2023
+1902,widget b,clothing,warehouse 1,aisle 5,two hundred,19.99,supplier a,low stock,25/04/2023
+1824,gadget z,toys,warehouse 2,aisle 2,150,9.99,supplier c,low stock,20/12/2022
+1035,gadget z,clothing,warehouse 1,aisle 5,100,49.99,supplier d,low stock,
+1019,gadget x,electronics,warehouse 2,aisle 2,two hundred,9.99,supplier d,low stock,
+1320,widget a,electronics,warehouse 1,aisle 2,,29.99,supplier c,out of stock,05/03/2023
+1511,widget c,clothing,warehouse 2,aisle 3,two hundred,29.99,supplier a,low stock,20/12/2022
+1399,widget b,electronics,warehouse 3,aisle 5,50,9.99,supplier c,low stock,05/03/2023
+1971,widget c,furniture,warehouse 1,aisle 5,50,29.99,supplier a,in stock,20/12/2022
+1882,gadget z,electronics,warehouse 1,aisle 3,300,49.99,supplier a,in stock,20/12/2022
+1470,widget b,toys,warehouse 1,aisle 4,,49.99,supplier d,in stock,05/03/2023
+1142,gadget x,furniture,warehouse 2,aisle 1,150,9.99,supplier c,in stock,20/12/2022
+1353,gadget x,furniture,warehouse 3,aisle 3,300,19.99,supplier b,out of stock,25/04/2023
+1799,gadget y,toys,warehouse 3,aisle 2,,49.99,supplier a,in stock,
+1726,widget a,toys,warehouse 2,aisle 3,,29.99,supplier d,out of stock,05/03/2023
+1958,widget a,furniture,warehouse 1,aisle 4,300,19.99,supplier d,in stock,25/04/2023
+1853,widget c,toys,warehouse 1,aisle 4,300,9.99,supplier b,low stock,15/01/2023
+1050,widget c,furniture,warehouse 2,aisle 1,50,19.99,supplier d,low stock,15/01/2023
+1664,gadget y,furniture,warehouse 2,aisle 4,150,9.99,supplier a,in stock,20/12/2022
+1697,gadget z,furniture,warehouse 2,aisle 3,50,19.99,supplier a,out of stock,20/12/2022
+1574,widget a,furniture,warehouse 2,aisle 4,50,9.99,supplier d,low stock,15/01/2023
+1189,gadget y,electronics,warehouse 2,aisle 3,150,9.99,supplier a,out of stock,25/04/2023
+1124,widget c,furniture,warehouse 1,aisle 2,100,19.99,supplier a,low stock,20/12/2022
+1149,widget c,clothing,warehouse 2,aisle 1,50,19.99,supplier b,in stock,05/03/2023
+1313,widget a,toys,warehouse 1,aisle 4,50,9.99,supplier d,out of stock,05/03/2023
+1569,gadget x,clothing,warehouse 1,aisle 3,,49.99,supplier a,out of stock,25/04/2023
+1341,widget b,electronics,warehouse 2,aisle 5,150,19.99,supplier d,out of stock,20/12/2022
+1691,gadget z,toys,warehouse 1,aisle 2,100,29.99,supplier d,low stock,20/12/2022
+1681,gadget z,clothing,warehouse 2,aisle 3,100,9.99,supplier a,low stock,20/12/2022
+1837,widget c,electronics,warehouse 2,aisle 2,150,9.99,supplier d,in stock,05/03/2023
+1782,gadget x,furniture,warehouse 2,aisle 2,300,29.99,supplier a,low stock,15/01/2023
+1053,gadget x,clothing,warehouse 3,aisle 4,300,49.99,supplier a,in stock,05/03/2023
+1443,gadget y,electronics,warehouse 1,aisle 4,,29.99,supplier a,out of stock,25/04/2023
+1612,gadget z,electronics,warehouse 3,aisle 3,,19.99,supplier b,out of stock,
+1992,gadget y,toys,warehouse 2,aisle 5,150,29.99,supplier d,in stock,05/03/2023
+1263,gadget z,toys,warehouse 3,aisle 3,,9.99,supplier b,low stock,20/12/2022
+1052,widget b,clothing,warehouse 2,aisle 5,100,29.99,supplier d,in stock,20/12/2022
+1619,widget a,electronics,warehouse 2,aisle 1,two hundred,19.99,supplier c,out of stock,
+1004,gadget y,clothing,warehouse 3,aisle 3,300,29.99,supplier a,in stock,05/03/2023
+1102,widget c,electronics,warehouse 3,aisle 3,150,9.99,supplier a,low stock,
+1195,gadget y,electronics,warehouse 3,aisle 5,50,19.99,supplier b,low stock,
+1773,widget c,furniture,warehouse 1,aisle 2,300,9.99,supplier c,in stock,25/04/2023
+1876,gadget x,furniture,warehouse 3,aisle 2,50,49.99,supplier a,in stock,20/12/2022
+1883,gadget x,furniture,warehouse 2,aisle 2,two hundred,49.99,supplier b,out of stock,
+1046,widget b,clothing,warehouse 2,aisle 1,two hundred,29.99,supplier a,low stock,15/01/2023
+1866,widget a,furniture,warehouse 2,aisle 3,two hundred,19.99,supplier b,low stock,
+1822,gadget y,toys,warehouse 3,aisle 1,50,29.99,supplier b,out of stock,20/12/2022
+1268,widget b,electronics,warehouse 2,aisle 5,two hundred,9.99,supplier a,out of stock,15/01/2023
+1369,widget c,clothing,warehouse 3,aisle 4,,19.99,supplier b,in stock,05/03/2023
+1635,gadget x,electronics,warehouse 1,aisle 1,150,29.99,supplier a,low stock,05/03/2023
+1105,gadget x,electronics,warehouse 1,aisle 5,,29.99,supplier a,in stock,15/01/2023
+1669,gadget y,electronics,warehouse 2,aisle 2,50,49.99,supplier b,in stock,
+1830,widget a,toys,warehouse 2,aisle 4,,29.99,supplier d,out of stock,
+1786,widget b,clothing,warehouse 1,aisle 2,50,49.99,supplier b,out of stock,
+1603,gadget y,furniture,warehouse 2,aisle 3,300,9.99,supplier c,low stock,05/03/2023
+1057,gadget x,electronics,warehouse 3,aisle 5,150,19.99,supplier d,in stock,25/04/2023
+1950,widget c,furniture,warehouse 1,aisle 2,300,9.99,supplier d,low stock,
+1345,gadget x,furniture,warehouse 2,aisle 4,,29.99,supplier d,out of stock,15/01/2023
+1473,gadget z,furniture,warehouse 2,aisle 3,,19.99,supplier c,out of stock,
+1116,gadget x,toys,warehouse 3,aisle 5,100,29.99,supplier d,in stock,
+1829,widget a,furniture,warehouse 3,aisle 3,,29.99,supplier a,in stock,25/04/2023
+1790,widget b,furniture,warehouse 1,aisle 1,150,29.99,supplier a,out of stock,15/01/2023
+1126,gadget z,furniture,warehouse 3,aisle 5,150,19.99,supplier c,low stock,20/12/2022
+1392,widget c,electronics,warehouse 2,aisle 3,,19.99,supplier c,low stock,
+1907,gadget z,electronics,warehouse 3,aisle 4,150,49.99,supplier c,out of stock,20/12/2022
+1640,widget a,toys,warehouse 3,aisle 5,two hundred,49.99,supplier d,low stock,05/03/2023
+1057,widget b,toys,warehouse 1,aisle 5,300,9.99,supplier a,out of stock,
+1633,widget c,electronics,warehouse 3,aisle 2,,19.99,supplier c,low stock,
+1512,widget a,toys,warehouse 3,aisle 4,two hundred,19.99,supplier c,out of stock,05/03/2023
+1750,gadget z,electronics,warehouse 2,aisle 1,300,19.99,supplier b,low stock,25/04/2023
+1801,widget a,clothing,warehouse 1,aisle 3,300,49.99,supplier d,in stock,
+1095,widget b,furniture,warehouse 1,aisle 2,two hundred,29.99,supplier b,out of stock,20/12/2022
+1117,widget a,toys,warehouse 3,aisle 1,,49.99,supplier b,low stock,20/12/2022
+1559,widget a,electronics,warehouse 1,aisle 1,300,19.99,supplier b,out of stock,25/04/2023
+1600,gadget z,electronics,warehouse 3,aisle 5,300,49.99,supplier b,out of stock,15/01/2023
+1487,gadget z,toys,warehouse 3,aisle 1,150,9.99,supplier d,out of stock,20/12/2022
+1236,widget c,electronics,warehouse 2,aisle 3,300,19.99,supplier a,in stock,20/12/2022
+1884,gadget z,clothing,warehouse 2,aisle 4,two hundred,9.99,supplier b,in stock,05/03/2023
+1896,gadget x,furniture,warehouse 2,aisle 4,300,19.99,supplier d,low stock,25/04/2023
+1271,widget b,toys,warehouse 2,aisle 5,50,49.99,supplier a,in stock,05/03/2023
+1188,widget b,toys,warehouse 2,aisle 3,,29.99,supplier c,low stock,15/01/2023
+1703,gadget y,toys,warehouse 3,aisle 1,300,9.99,supplier a,low stock,25/04/2023
+1446,widget b,clothing,warehouse 1,aisle 3,100,49.99,supplier b,in stock,
+1580,gadget y,electronics,warehouse 3,aisle 2,100,29.99,supplier c,in stock,
+1789,widget c,electronics,warehouse 3,aisle 1,two hundred,49.99,supplier a,low stock,15/01/2023
+1860,gadget z,electronics,warehouse 2,aisle 2,100,9.99,supplier d,out of stock,
+1962,gadget y,clothing,warehouse 2,aisle 4,150,49.99,supplier d,in stock,15/01/2023
+1075,widget b,electronics,warehouse 1,aisle 5,two hundred,19.99,supplier a,low stock,25/04/2023
+1153,gadget x,toys,warehouse 1,aisle 4,100,29.99,supplier d,out of stock,15/01/2023
+1655,widget a,clothing,warehouse 3,aisle 5,300,49.99,supplier c,low stock,15/01/2023
+1434,gadget z,furniture,warehouse 1,aisle 3,150,29.99,supplier c,out of stock,20/12/2022
+1996,widget b,furniture,warehouse 3,aisle 2,100,19.99,supplier c,low stock,20/12/2022
+1284,widget a,clothing,warehouse 2,aisle 2,,19.99,supplier b,out of stock,20/12/2022
+1973,gadget z,furniture,warehouse 2,aisle 1,100,29.99,supplier c,in stock,25/04/2023
+1219,widget b,furniture,warehouse 2,aisle 2,two hundred,49.99,supplier d,low stock,05/03/2023
+1068,gadget x,furniture,warehouse 3,aisle 2,150,19.99,supplier d,out of stock,20/12/2022
+1046,gadget y,furniture,warehouse 1,aisle 5,100,9.99,supplier d,in stock,15/01/2023
+1093,widget b,furniture,warehouse 3,aisle 4,100,29.99,supplier a,low stock,
+1957,gadget y,toys,warehouse 3,aisle 2,two hundred,19.99,supplier c,low stock,20/12/2022
+1203,widget a,furniture,warehouse 3,aisle 3,150,29.99,supplier b,in stock,
+1217,widget c,clothing,warehouse 3,aisle 1,150,19.99,supplier d,out of stock,15/01/2023
+1473,widget b,furniture,warehouse 1,aisle 5,100,29.99,supplier d,in stock,25/04/2023
+1431,gadget x,furniture,warehouse 1,aisle 2,,9.99,supplier a,out of stock,
+1340,gadget y,clothing,warehouse 2,aisle 1,,19.99,supplier b,low stock,05/03/2023
+1550,widget a,electronics,warehouse 1,aisle 1,300,49.99,supplier b,low stock,20/12/2022
+1611,gadget y,electronics,warehouse 2,aisle 2,50,19.99,supplier a,out of stock,05/03/2023
+1288,widget b,furniture,warehouse 2,aisle 5,,29.99,supplier a,low stock,15/01/2023
+1253,gadget y,electronics,warehouse 2,aisle 1,100,19.99,supplier a,in stock,15/01/2023
+1733,widget a,clothing,warehouse 3,aisle 5,50,9.99,supplier b,low stock,05/03/2023
+1356,widget b,electronics,warehouse 3,aisle 4,two hundred,9.99,supplier b,in stock,25/04/2023
+1022,gadget y,furniture,warehouse 3,aisle 5,,49.99,supplier d,out of stock,15/01/2023
+1521,gadget z,electronics,warehouse 1,aisle 3,100,29.99,supplier b,low stock,05/03/2023
+1757,widget b,toys,warehouse 1,aisle 5,300,29.99,supplier d,low stock,15/01/2023
+1099,widget b,clothing,warehouse 1,aisle 4,150,9.99,supplier c,in stock,25/04/2023
+1801,gadget x,toys,warehouse 1,aisle 2,100,9.99,supplier d,low stock,25/04/2023
+1179,gadget z,toys,warehouse 2,aisle 3,100,19.99,supplier b,low stock,20/12/2022
+1222,widget c,clothing,warehouse 2,aisle 3,150,49.99,supplier d,out of stock,25/04/2023
+1905,widget a,toys,warehouse 2,aisle 5,300,49.99,supplier d,out of stock,25/04/2023
+1761,widget c,furniture,warehouse 2,aisle 4,50,49.99,supplier d,out of stock,20/12/2022
+1658,gadget y,furniture,warehouse 1,aisle 2,150,19.99,supplier c,low stock,
+1441,gadget x,furniture,warehouse 3,aisle 5,100,49.99,supplier a,low stock,15/01/2023
+1768,widget b,toys,warehouse 1,aisle 4,two hundred,19.99,supplier c,out of stock,15/01/2023
+1515,gadget y,electronics,warehouse 2,aisle 4,300,19.99,supplier b,in stock,15/01/2023
+1015,widget c,electronics,warehouse 2,aisle 2,,49.99,supplier b,low stock,20/12/2022
+1257,widget c,clothing,warehouse 3,aisle 1,50,19.99,supplier a,low stock,
+1496,widget c,toys,warehouse 2,aisle 3,300,29.99,supplier a,in stock,
+1987,gadget z,electronics,warehouse 3,aisle 4,300,49.99,supplier d,in stock,05/03/2023
+1159,gadget z,toys,warehouse 1,aisle 3,150,29.99,supplier c,out of stock,15/01/2023
+1474,gadget z,electronics,warehouse 2,aisle 4,300,49.99,supplier d,low stock,15/01/2023
+1851,gadget y,clothing,warehouse 2,aisle 2,50,49.99,supplier d,low stock,15/01/2023
+1689,gadget x,toys,warehouse 2,aisle 1,150,19.99,supplier c,out of stock,05/03/2023
+1674,gadget x,clothing,warehouse 1,aisle 3,300,29.99,supplier b,out of stock,25/04/2023
+1379,widget c,electronics,warehouse 2,aisle 3,two hundred,29.99,supplier b,in stock,20/12/2022
+1928,gadget x,furniture,warehouse 1,aisle 4,150,49.99,supplier b,in stock,05/03/2023
+1690,widget a,furniture,warehouse 3,aisle 5,300,49.99,supplier d,out of stock,05/03/2023
+1426,gadget z,furniture,warehouse 2,aisle 2,100,49.99,supplier b,out of stock,
+1267,gadget y,clothing,warehouse 3,aisle 3,300,9.99,supplier a,in stock,05/03/2023
+1834,widget c,clothing,warehouse 3,aisle 2,50,29.99,supplier a,low stock,
+1576,widget b,electronics,warehouse 2,aisle 1,two hundred,49.99,supplier b,out of stock,05/03/2023
+1416,widget a,clothing,warehouse 2,aisle 1,50,49.99,supplier d,out of stock,05/03/2023
+1167,widget b,furniture,warehouse 3,aisle 5,50,9.99,supplier b,out of stock,25/04/2023
+1841,widget b,toys,warehouse 1,aisle 4,,19.99,supplier b,in stock,
+1042,gadget y,electronics,warehouse 3,aisle 5,100,9.99,supplier d,in stock,15/01/2023
+1555,widget a,toys,warehouse 2,aisle 5,50,9.99,supplier b,low stock,20/12/2022
+1284,widget a,clothing,warehouse 1,aisle 5,150,49.99,supplier a,out of stock,25/04/2023
+1396,widget a,toys,warehouse 1,aisle 1,150,29.99,supplier d,in stock,
+1011,widget a,clothing,warehouse 3,aisle 1,300,9.99,supplier d,low stock,05/03/2023
+1606,widget a,clothing,warehouse 2,aisle 5,,19.99,supplier d,out of stock,
+1897,widget c,clothing,warehouse 3,aisle 4,100,9.99,supplier b,out of stock,20/12/2022
+1252,widget b,furniture,warehouse 3,aisle 5,300,9.99,supplier b,out of stock,15/01/2023
+1498,widget a,furniture,warehouse 1,aisle 1,150,19.99,supplier a,in stock,15/01/2023
+1753,widget c,furniture,warehouse 1,aisle 2,two hundred,29.99,supplier c,in stock,20/12/2022
+1034,widget c,electronics,warehouse 2,aisle 5,,9.99,supplier c,in stock,25/04/2023
+1726,widget b,electronics,warehouse 2,aisle 5,300,9.99,supplier a,out of stock,25/04/2023
+1848,gadget y,clothing,warehouse 3,aisle 4,,29.99,supplier c,out of stock,05/03/2023
+1089,gadget x,furniture,warehouse 3,aisle 3,150,19.99,supplier a,low stock,15/01/2023
+1775,gadget x,electronics,warehouse 3,aisle 3,150,9.99,supplier b,out of stock,05/03/2023
+1604,widget c,furniture,warehouse 2,aisle 4,two hundred,29.99,supplier d,in stock,15/01/2023
+1921,gadget z,toys,warehouse 1,aisle 4,two hundred,9.99,supplier d,out of stock,20/12/2022
+1601,widget b,toys,warehouse 3,aisle 3,,49.99,supplier d,low stock,25/04/2023
+1114,widget c,furniture,warehouse 3,aisle 1,150,9.99,supplier c,in stock,05/03/2023
+1616,gadget y,toys,warehouse 3,aisle 5,100,19.99,supplier b,low stock,05/03/2023
+1902,gadget x,electronics,warehouse 2,aisle 5,300,49.99,supplier c,low stock,
+1825,widget c,toys,warehouse 3,aisle 2,100,29.99,supplier d,in stock,05/03/2023
+1500,widget a,toys,warehouse 2,aisle 5,100,19.99,supplier d,low stock,20/12/2022
+1492,widget a,electronics,warehouse 3,aisle 3,100,29.99,supplier d,in stock,25/04/2023
+1074,widget b,furniture,warehouse 1,aisle 3,two hundred,9.99,supplier d,out of stock,15/01/2023
+1412,widget a,electronics,warehouse 3,aisle 1,two hundred,29.99,supplier b,out of stock,
+1728,gadget z,clothing,warehouse 1,aisle 5,300,9.99,supplier b,out of stock,25/04/2023
+1276,widget c,clothing,warehouse 2,aisle 5,50,29.99,supplier d,out of stock,25/04/2023
+1760,gadget y,clothing,warehouse 2,aisle 1,two hundred,29.99,supplier a,out of stock,25/04/2023
+1675,widget a,furniture,warehouse 1,aisle 3,50,9.99,supplier b,low stock,20/12/2022
+1393,gadget y,toys,warehouse 3,aisle 2,150,29.99,supplier b,out of stock,
+1868,gadget z,furniture,warehouse 1,aisle 2,150,9.99,supplier a,out of stock,25/04/2023
+1456,gadget z,electronics,warehouse 3,aisle 3,100,19.99,supplier d,in stock,25/04/2023
+1191,widget b,clothing,warehouse 3,aisle 1,100,19.99,supplier b,in stock,
+1738,widget a,electronics,warehouse 2,aisle 1,150,49.99,supplier b,in stock,15/01/2023
+1688,gadget x,furniture,warehouse 3,aisle 3,two hundred,49.99,supplier d,low stock,
+1098,widget c,toys,warehouse 1,aisle 2,300,49.99,supplier d,out of stock,
+1547,widget b,toys,warehouse 2,aisle 1,two hundred,9.99,supplier c,in stock,
+1977,widget a,electronics,warehouse 3,aisle 1,100,29.99,supplier b,low stock,25/04/2023
+1998,gadget y,toys,warehouse 3,aisle 4,300,19.99,supplier b,out of stock,25/04/2023
+1095,widget b,furniture,warehouse 3,aisle 4,150,19.99,supplier a,low stock,20/12/2022
+1663,widget b,furniture,warehouse 3,aisle 1,two hundred,19.99,supplier c,in stock,15/01/2023
+1662,widget a,electronics,warehouse 3,aisle 3,150,19.99,supplier d,out of stock,05/03/2023
+1189,widget b,furniture,warehouse 2,aisle 5,300,49.99,supplier c,out of stock,
+1735,gadget y,clothing,warehouse 2,aisle 5,300,19.99,supplier d,low stock,15/01/2023
+1036,gadget z,electronics,warehouse 2,aisle 1,two hundred,29.99,supplier d,out of stock,15/01/2023
+1779,widget b,furniture,warehouse 2,aisle 1,150,49.99,supplier c,in stock,20/12/2022
+1368,gadget z,electronics,warehouse 1,aisle 1,50,19.99,supplier b,in stock,05/03/2023
+1694,gadget y,toys,warehouse 2,aisle 3,150,9.99,supplier d,in stock,
+1866,widget c,electronics,warehouse 3,aisle 2,50,49.99,supplier a,out of stock,15/01/2023
+1872,gadget y,electronics,warehouse 2,aisle 3,,19.99,supplier d,in stock,
+1797,widget b,furniture,warehouse 3,aisle 1,100,49.99,supplier c,out of stock,25/04/2023
+1272,gadget z,clothing,warehouse 1,aisle 2,,29.99,supplier c,in stock,20/12/2022
+1880,gadget x,clothing,warehouse 1,aisle 5,two hundred,9.99,supplier a,out of stock,05/03/2023
+1061,widget c,clothing,warehouse 2,aisle 1,,9.99,supplier c,in stock,15/01/2023
+1341,widget a,electronics,warehouse 2,aisle 1,100,19.99,supplier b,in stock,15/01/2023
+1396,gadget z,clothing,warehouse 1,aisle 5,100,29.99,supplier a,in stock,05/03/2023
+1698,widget c,furniture,warehouse 3,aisle 1,,29.99,supplier c,out of stock,20/12/2022
+1018,gadget x,clothing,warehouse 2,aisle 5,100,29.99,supplier a,out of stock,05/03/2023
+1176,gadget x,toys,warehouse 3,aisle 4,300,29.99,supplier a,low stock,05/03/2023
+1395,widget b,clothing,warehouse 2,aisle 5,,9.99,supplier c,in stock,15/01/2023
+1232,gadget y,furniture,warehouse 1,aisle 1,50,29.99,supplier a,in stock,20/12/2022
+1075,widget b,furniture,warehouse 3,aisle 4,100,29.99,supplier a,in stock,15/01/2023
+1264,gadget x,toys,warehouse 2,aisle 5,,49.99,supplier b,low stock,20/12/2022
+1454,widget a,clothing,warehouse 3,aisle 1,100,9.99,supplier a,low stock,20/12/2022
+1795,gadget x,furniture,warehouse 1,aisle 1,150,49.99,supplier d,in stock,05/03/2023
+1717,gadget y,electronics,warehouse 3,aisle 3,300,19.99,supplier a,out of stock,
+1383,widget a,furniture,warehouse 1,aisle 4,100,19.99,supplier c,low stock,
+1850,widget b,toys,warehouse 3,aisle 2,300,49.99,supplier d,low stock,15/01/2023
+1505,widget a,electronics,warehouse 2,aisle 1,,29.99,supplier b,low stock,25/04/2023
+1366,gadget y,toys,warehouse 2,aisle 3,100,29.99,supplier d,in stock,20/12/2022
+1884,gadget x,furniture,warehouse 1,aisle 4,two hundred,29.99,supplier c,out of stock,20/12/2022
+1068,gadget z,electronics,warehouse 1,aisle 3,300,49.99,supplier c,low stock,05/03/2023
+1098,widget b,toys,warehouse 2,aisle 2,50,29.99,supplier b,out of stock,
+1395,widget c,electronics,warehouse 1,aisle 1,50,49.99,supplier c,in stock,20/12/2022
+1024,widget b,electronics,warehouse 1,aisle 2,50,19.99,supplier b,low stock,15/01/2023
+1947,widget b,furniture,warehouse 1,aisle 5,100,49.99,supplier b,out of stock,05/03/2023
+1890,gadget z,clothing,warehouse 2,aisle 4,100,9.99,supplier d,out of stock,25/04/2023
+1468,widget c,electronics,warehouse 3,aisle 3,two hundred,9.99,supplier b,out of stock,05/03/2023
+1483,gadget y,toys,warehouse 1,aisle 5,150,9.99,supplier d,in stock,
+1568,widget c,clothing,warehouse 2,aisle 1,300,49.99,supplier a,in stock,20/12/2022
+1108,gadget x,furniture,warehouse 1,aisle 5,300,19.99,supplier b,out of stock,25/04/2023
+1692,gadget y,electronics,warehouse 3,aisle 1,150,9.99,supplier a,out of stock,
+1041,gadget z,furniture,warehouse 2,aisle 5,150,49.99,supplier a,in stock,05/03/2023
+1185,widget a,electronics,warehouse 1,aisle 3,50,9.99,supplier c,out of stock,
+1397,gadget z,electronics,warehouse 2,aisle 3,100,49.99,supplier c,low stock,20/12/2022
+1222,gadget y,furniture,warehouse 2,aisle 3,100,29.99,supplier c,out of stock,20/12/2022
+1633,gadget x,electronics,warehouse 1,aisle 4,50,19.99,supplier a,in stock,
+1214,widget a,toys,warehouse 3,aisle 2,100,19.99,supplier d,in stock,05/03/2023
+1732,widget b,toys,warehouse 1,aisle 1,150,19.99,supplier b,out of stock,20/12/2022
+1234,gadget z,electronics,warehouse 2,aisle 4,50,29.99,supplier a,out of stock,20/12/2022
+1750,gadget y,furniture,warehouse 3,aisle 2,,9.99,supplier a,low stock,15/01/2023
+1587,widget a,furniture,warehouse 3,aisle 3,50,49.99,supplier b,out of stock,25/04/2023
+1008,gadget z,electronics,warehouse 2,aisle 1,100,49.99,supplier a,out of stock,
+1073,widget a,toys,warehouse 2,aisle 5,300,9.99,supplier d,in stock,
+1953,widget c,electronics,warehouse 1,aisle 3,50,49.99,supplier b,low stock,05/03/2023
+1491,gadget y,electronics,warehouse 3,aisle 2,300,19.99,supplier a,in stock,20/12/2022
+1912,gadget z,toys,warehouse 1,aisle 3,,49.99,supplier c,in stock,15/01/2023
+1252,gadget z,toys,warehouse 1,aisle 3,two hundred,49.99,supplier b,in stock,05/03/2023
+1229,widget b,clothing,warehouse 1,aisle 2,300,9.99,supplier d,low stock,05/03/2023
+1518,gadget x,clothing,warehouse 3,aisle 4,150,29.99,supplier a,in stock,15/01/2023
+1173,widget b,furniture,warehouse 1,aisle 4,50,49.99,supplier b,in stock,
+1652,gadget z,toys,warehouse 1,aisle 1,,49.99,supplier b,in stock,20/12/2022
+1167,gadget y,clothing,warehouse 1,aisle 1,,29.99,supplier b,out of stock,
+1169,widget a,furniture,warehouse 1,aisle 4,300,9.99,supplier d,in stock,05/03/2023
+1392,widget a,furniture,warehouse 1,aisle 5,two hundred,29.99,supplier a,low stock,20/12/2022
+1945,gadget y,furniture,warehouse 1,aisle 3,100,9.99,supplier c,low stock,25/04/2023
+1794,gadget z,clothing,warehouse 3,aisle 5,50,19.99,supplier c,out of stock,05/03/2023
+1633,widget a,toys,warehouse 1,aisle 3,,9.99,supplier c,low stock,
+1193,widget a,electronics,warehouse 2,aisle 4,two hundred,19.99,supplier a,low stock,
+1516,widget a,furniture,warehouse 1,aisle 1,150,19.99,supplier c,out of stock,
+1028,gadget x,clothing,warehouse 1,aisle 1,,9.99,supplier d,in stock,15/01/2023
+1421,widget c,electronics,warehouse 3,aisle 1,100,9.99,supplier b,in stock,20/12/2022
+1338,widget b,electronics,warehouse 2,aisle 4,100,49.99,supplier d,in stock,
+1647,gadget y,clothing,warehouse 2,aisle 5,,49.99,supplier b,low stock,
+1364,gadget y,electronics,warehouse 3,aisle 1,300,19.99,supplier d,low stock,20/12/2022
+1341,gadget x,electronics,warehouse 3,aisle 1,two hundred,49.99,supplier d,in stock,25/04/2023
+1656,gadget z,furniture,warehouse 1,aisle 5,50,9.99,supplier a,out of stock,05/03/2023
+1326,gadget z,toys,warehouse 1,aisle 2,50,19.99,supplier d,low stock,
+1216,gadget y,clothing,warehouse 3,aisle 4,,9.99,supplier d,in stock,
+1300,widget b,electronics,warehouse 2,aisle 1,100,29.99,supplier d,out of stock,20/12/2022
+1131,widget a,electronics,warehouse 1,aisle 5,two hundred,49.99,supplier a,low stock,25/04/2023
+1803,gadget x,clothing,warehouse 1,aisle 4,two hundred,49.99,supplier b,in stock,
+1251,widget c,clothing,warehouse 3,aisle 5,,9.99,supplier a,out of stock,20/12/2022
+1414,gadget x,electronics,warehouse 3,aisle 4,two hundred,29.99,supplier b,low stock,05/03/2023
+1786,gadget y,clothing,warehouse 2,aisle 5,,9.99,supplier d,low stock,
+1444,gadget z,toys,warehouse 1,aisle 2,300,49.99,supplier b,in stock,15/01/2023
+1875,gadget y,clothing,warehouse 3,aisle 2,,9.99,supplier b,low stock,15/01/2023
+1181,widget c,electronics,warehouse 2,aisle 1,50,29.99,supplier a,in stock,05/03/2023
+1090,gadget z,furniture,warehouse 2,aisle 2,,19.99,supplier a,low stock,20/12/2022
+1713,widget b,clothing,warehouse 3,aisle 5,300,9.99,supplier d,out of stock,15/01/2023
+1857,widget c,furniture,warehouse 3,aisle 2,150,19.99,supplier b,out of stock,15/01/2023
+1530,widget b,toys,warehouse 1,aisle 1,100,49.99,supplier b,low stock,05/03/2023
+1450,widget a,electronics,warehouse 2,aisle 5,two hundred,9.99,supplier d,out of stock,05/03/2023
+1652,widget b,toys,warehouse 2,aisle 1,300,9.99,supplier c,low stock,20/12/2022
+1753,widget c,furniture,warehouse 1,aisle 5,two hundred,9.99,supplier a,low stock,15/01/2023
+1219,gadget z,furniture,warehouse 2,aisle 2,100,19.99,supplier a,low stock,25/04/2023
+1057,gadget y,toys,warehouse 1,aisle 4,,9.99,supplier b,low stock,20/12/2022
+1659,gadget z,clothing,warehouse 2,aisle 1,two hundred,19.99,supplier b,in stock,
+1475,widget a,furniture,warehouse 2,aisle 1,50,29.99,supplier b,out of stock,15/01/2023
+1455,widget a,furniture,warehouse 3,aisle 3,50,19.99,supplier a,in stock,05/03/2023
+1828,widget c,electronics,warehouse 3,aisle 1,150,19.99,supplier d,in stock,
+1894,gadget x,toys,warehouse 2,aisle 4,50,9.99,supplier b,low stock,05/03/2023
+1360,widget b,furniture,warehouse 1,aisle 3,two hundred,49.99,supplier d,out of stock,05/03/2023
+1934,widget a,toys,warehouse 1,aisle 3,50,49.99,supplier b,in stock,05/03/2023
+1000,gadget y,furniture,warehouse 1,aisle 2,100,49.99,supplier c,low stock,15/01/2023
+1386,widget c,clothing,warehouse 1,aisle 2,50,19.99,supplier b,low stock,25/04/2023
+1972,widget b,clothing,warehouse 1,aisle 1,,9.99,supplier b,out of stock,
+1189,widget b,clothing,warehouse 2,aisle 2,150,19.99,supplier a,in stock,25/04/2023
+1504,widget b,furniture,warehouse 3,aisle 4,,19.99,supplier c,in stock,15/01/2023
+1190,gadget z,clothing,warehouse 1,aisle 2,two hundred,9.99,supplier b,low stock,05/03/2023
+1507,widget a,electronics,warehouse 1,aisle 2,two hundred,29.99,supplier b,out of stock,20/12/2022
+1368,widget c,electronics,warehouse 1,aisle 3,two hundred,19.99,supplier d,out of stock,
+1408,widget c,electronics,warehouse 1,aisle 3,,29.99,supplier c,in stock,25/04/2023
+1823,gadget z,toys,warehouse 2,aisle 5,,29.99,supplier b,low stock,25/04/2023
+1928,gadget y,toys,warehouse 1,aisle 4,,49.99,supplier d,in stock,20/12/2022
+1933,gadget y,electronics,warehouse 2,aisle 3,100,9.99,supplier d,out of stock,15/01/2023
+1116,widget a,toys,warehouse 1,aisle 1,300,29.99,supplier a,low stock,
+1133,widget a,clothing,warehouse 2,aisle 4,100,9.99,supplier d,in stock,20/12/2022
+1057,gadget x,furniture,warehouse 3,aisle 4,two hundred,49.99,supplier b,in stock,05/03/2023
+1555,gadget z,furniture,warehouse 1,aisle 3,300,9.99,supplier a,low stock,
+1684,gadget y,furniture,warehouse 2,aisle 4,50,19.99,supplier a,out of stock,25/04/2023
+1671,widget b,electronics,warehouse 3,aisle 3,two hundred,29.99,supplier b,low stock,20/12/2022
+1172,widget c,toys,warehouse 1,aisle 2,150,9.99,supplier c,in stock,25/04/2023
+1814,widget c,clothing,warehouse 1,aisle 2,,9.99,supplier a,in stock,25/04/2023
+1148,widget c,electronics,warehouse 2,aisle 3,100,29.99,supplier c,in stock,15/01/2023
+1079,gadget x,clothing,warehouse 2,aisle 3,,49.99,supplier b,out of stock,25/04/2023
+1885,gadget y,clothing,warehouse 3,aisle 2,300,49.99,supplier d,out of stock,05/03/2023
+1212,widget a,clothing,warehouse 2,aisle 1,150,29.99,supplier d,in stock,05/03/2023
+1202,widget c,clothing,warehouse 2,aisle 1,300,19.99,supplier a,out of stock,
+1763,widget a,toys,warehouse 1,aisle 1,150,19.99,supplier d,out of stock,25/04/2023
+1228,widget b,clothing,warehouse 1,aisle 3,100,49.99,supplier d,out of stock,25/04/2023
+1675,gadget x,furniture,warehouse 1,aisle 4,,49.99,supplier d,in stock,20/12/2022
+1226,widget b,electronics,warehouse 1,aisle 3,300,29.99,supplier d,low stock,15/01/2023
+1658,widget a,toys,warehouse 1,aisle 4,150,19.99,supplier b,low stock,
+1531,widget a,clothing,warehouse 1,aisle 2,two hundred,49.99,supplier c,low stock,25/04/2023
+1440,gadget y,toys,warehouse 1,aisle 5,two hundred,19.99,supplier b,in stock,20/12/2022
+1401,widget c,clothing,warehouse 3,aisle 4,300,49.99,supplier b,out of stock,15/01/2023
+1046,widget c,furniture,warehouse 3,aisle 1,,9.99,supplier a,out of stock,
+1304,gadget x,clothing,warehouse 3,aisle 2,100,9.99,supplier b,in stock,25/04/2023
+1525,gadget z,clothing,warehouse 1,aisle 1,150,49.99,supplier d,low stock,
+1512,widget b,electronics,warehouse 3,aisle 3,150,49.99,supplier a,low stock,05/03/2023
+1372,widget b,electronics,warehouse 2,aisle 3,300,49.99,supplier c,out of stock,20/12/2022
+1565,gadget z,furniture,warehouse 3,aisle 5,100,19.99,supplier c,in stock,15/01/2023
+1885,gadget y,electronics,warehouse 3,aisle 3,50,49.99,supplier b,in stock,15/01/2023
+1258,gadget x,clothing,warehouse 1,aisle 4,,29.99,supplier a,out of stock,25/04/2023
+1655,gadget y,furniture,warehouse 3,aisle 2,,49.99,supplier d,out of stock,25/04/2023
+1470,gadget x,furniture,warehouse 2,aisle 1,50,29.99,supplier d,out of stock,05/03/2023
+1952,gadget y,furniture,warehouse 1,aisle 5,two hundred,49.99,supplier b,low stock,15/01/2023
+1970,gadget y,clothing,warehouse 1,aisle 4,150,19.99,supplier c,in stock,15/01/2023
+1011,widget a,toys,warehouse 3,aisle 1,,29.99,supplier a,low stock,15/01/2023
+1329,widget b,clothing,warehouse 1,aisle 1,50,9.99,supplier c,out of stock,15/01/2023
+1735,gadget y,electronics,warehouse 1,aisle 5,300,29.99,supplier d,low stock,
+1783,gadget z,electronics,warehouse 1,aisle 4,50,19.99,supplier c,out of stock,20/12/2022
+1967,gadget y,clothing,warehouse 1,aisle 1,two hundred,29.99,supplier d,low stock,20/12/2022
+1357,widget c,clothing,warehouse 1,aisle 1,two hundred,49.99,supplier a,low stock,05/03/2023
+1971,widget b,furniture,warehouse 1,aisle 4,100,49.99,supplier a,out of stock,
+1407,widget c,clothing,warehouse 2,aisle 3,,19.99,supplier b,low stock,15/01/2023
+1372,widget c,electronics,warehouse 2,aisle 2,50,49.99,supplier c,low stock,25/04/2023
+1007,gadget y,furniture,warehouse 1,aisle 4,150,9.99,supplier a,low stock,25/04/2023
+1121,gadget y,clothing,warehouse 1,aisle 1,150,19.99,supplier a,in stock,05/03/2023
+1347,widget a,electronics,warehouse 3,aisle 5,two hundred,29.99,supplier b,out of stock,15/01/2023
+1675,gadget z,toys,warehouse 2,aisle 2,150,29.99,supplier d,in stock,05/03/2023
+1089,widget c,furniture,warehouse 3,aisle 1,150,9.99,supplier c,low stock,
+1647,gadget x,electronics,warehouse 2,aisle 2,150,49.99,supplier c,out of stock,20/12/2022
+1697,widget a,furniture,warehouse 1,aisle 2,50,19.99,supplier b,low stock,15/01/2023
+1315,widget c,electronics,warehouse 3,aisle 3,150,9.99,supplier a,low stock,
+1177,widget c,electronics,warehouse 3,aisle 2,300,49.99,supplier b,in stock,15/01/2023
+1539,widget a,furniture,warehouse 1,aisle 3,150,19.99,supplier b,in stock,25/04/2023
+1731,gadget y,toys,warehouse 3,aisle 4,150,29.99,supplier b,out of stock,05/03/2023
+1868,widget c,electronics,warehouse 2,aisle 3,100,19.99,supplier b,out of stock,25/04/2023
+1739,widget a,electronics,warehouse 2,aisle 1,two hundred,19.99,supplier d,low stock,25/04/2023
+1922,widget b,toys,warehouse 1,aisle 4,,19.99,supplier b,in stock,25/04/2023
+1958,widget c,furniture,warehouse 2,aisle 3,300,29.99,supplier a,out of stock,20/12/2022
+1144,gadget z,toys,warehouse 1,aisle 1,50,49.99,supplier b,in stock,25/04/2023
+1723,widget c,furniture,warehouse 1,aisle 3,,29.99,supplier a,out of stock,05/03/2023
+1731,widget b,furniture,warehouse 2,aisle 1,150,9.99,supplier b,out of stock,25/04/2023
+1751,widget a,toys,warehouse 3,aisle 3,50,29.99,supplier b,in stock,25/04/2023
+1924,widget c,furniture,warehouse 3,aisle 1,150,9.99,supplier b,in stock,15/01/2023
+1908,widget b,toys,warehouse 1,aisle 1,150,29.99,supplier d,in stock,20/12/2022
+1546,widget c,furniture,warehouse 2,aisle 2,,9.99,supplier c,out of stock,15/01/2023
+1389,gadget z,electronics,warehouse 1,aisle 5,300,29.99,supplier d,low stock,15/01/2023
+1882,gadget x,furniture,warehouse 2,aisle 5,two hundred,9.99,supplier d,out of stock,05/03/2023
+1255,widget b,clothing,warehouse 2,aisle 4,150,9.99,supplier b,in stock,25/04/2023
+1814,gadget y,electronics,warehouse 3,aisle 1,,19.99,supplier b,in stock,
+1920,gadget y,furniture,warehouse 1,aisle 5,100,29.99,supplier a,out of stock,15/01/2023
+1449,gadget x,furniture,warehouse 2,aisle 3,,29.99,supplier b,out of stock,
+1823,gadget y,electronics,warehouse 2,aisle 3,300,19.99,supplier b,in stock,20/12/2022
+1797,gadget z,toys,warehouse 3,aisle 5,150,9.99,supplier c,low stock,05/03/2023
+1241,widget c,furniture,warehouse 2,aisle 2,100,49.99,supplier c,low stock,20/12/2022
+1250,widget a,clothing,warehouse 1,aisle 3,100,49.99,supplier b,out of stock,20/12/2022
